@@ -122,7 +122,7 @@
                           <button class="shoping-button" style="margin: 25px 0 0 70px; padding: 10px 30px 10px 30px; border-radius: 10px; ">SHOP NOW</button>
                       </div>
                       <div class="new-arrive1">
-                          <img class="arrival-image" src="../assets/images/men cloth1.jpeg" alt="men shirt" style="width: 230px; height: 230px; margin: 10px 10px 0 29px; border-radius: 10px;">
+                          <img class="arrival-image" src="../assets/images/men-cloth1.jpeg" alt="men shirt" style="width: 230px; height: 230px; margin: 10px 10px 0 29px; border-radius: 10px;">
                           <p style="margin: 10px 0 5px 120px;">SHIRT</p>
                           <p style="margin: 5px 0 5px 117px;">10,00$</p>
                           <a href="#" style="color: black; font-size: small; margin: 0 0 0 110px;">VIEW MORE</a>
@@ -140,7 +140,7 @@
                           <a href="#" style="color: black; font-size: small; margin: 0 0 0 112px;">VIEW MORE</a>
                       </div>
                       <div class="new-arrive4">
-                          <img class="arrival-image"  src="../assets/images/men jeans.webp" alt="men jeans" style="width: 230px; height: 230px; margin: 10px 10px 0 29px; border-radius: 10px;">
+                          <img class="arrival-image"  src="../assets/images/men-jeans.webp" alt="men jeans" style="width: 230px; height: 230px; margin: 10px 10px 0 29px; border-radius: 10px;">
                           <p style="margin: 10px 0 5px 120px;">JEANS</p>
                           <p style="margin: 5px 0 5px 117px;">15,00$</p>
                           <a href="#" style="color: black; font-size: small; margin: 0 0 0 110px;">VIEW MORE</a>
@@ -153,7 +153,7 @@
                       <br>
                       <div class="category1">
                           <div class="thing1">
-                              <img class="thing-img" src="../assets/images/addidas shoes.webp" alt="Shoes" style="width: 260px; height: 260px; margin: 10px 50px 0 100px; border-radius: 10px;">
+                              <img class="thing-img" src="../assets/images/addidas-shoes.webp" alt="Shoes" style="width: 260px; height: 260px; margin: 10px 50px 0 100px; border-radius: 10px;">
                               <p style="margin: 10px 0 5px 180px;">MEN SHOES</p>
                               <a href="#" style="color: black; font-size: small; margin: 0 0 0 186px;">VIEW MORE</a>
                           </div>
@@ -209,19 +209,19 @@
                           <a href="#" style="color: black; font-size: small; margin: 0 0 0 110px;">VIEW MORE</a>
                       </div>
                       <div class="new-arrive2">
-                          <img class="arrival-image"  src="../assets/images/women trouser.webp" alt="women trouser" style="width: 230px; height: 230px; margin: 10px 10px 0 29px; border-radius: 10px;">
+                          <img class="arrival-image"  src="../assets/images/women-trouser.webp" alt="women trouser" style="width: 230px; height: 230px; margin: 10px 10px 0 29px; border-radius: 10px;">
                           <p style="margin: 10px 0 5px 109px;">TROUSER</p>
                           <p style="margin: 5px 0 5px 119px;">15,00$</p>
                           <a href="#" style="color: black; font-size: small; margin: 0 0 0 110px;">VIEW MORE</a>
                       </div>
                       <div class="new-arrive3">
-                          <img class="arrival-image"  src="../assets/images/women jacket.webp" alt="women jacket" style="width: 230px; height: 230px; margin: 10px 10px 0 29px; border-radius: 10px;">
+                          <img class="arrival-image"  src="../assets/images/women-jacket.webp" alt="women jacket" style="width: 230px; height: 230px; margin: 10px 10px 0 29px; border-radius: 10px;">
                           <p style="margin: 10px 0 5px 120px;">JACKET</p>
                           <p style="margin: 5px 0 5px 122px;">25,00$</p>
                           <a href="#" style="color: black; font-size: small; margin: 0 0 0 112px;">VIEW MORE</a>
                       </div>
                       <div class="new-arrive4">
-                          <img class="arrival-image"  src="../assets/images/women dress.jpeg" alt="dress" style="width: 230px; height: 230px; margin: 10px 10px 0 29px; border-radius: 10px;">
+                          <img class="arrival-image"  src="../assets/images/women-dress.jpeg" alt="dress" style="width: 230px; height: 230px; margin: 10px 10px 0 29px; border-radius: 10px;">
                           <p style="margin: 10px 0 5px 117px;">DRESS</p>
                           <p style="margin: 5px 0 5px 117px;">20,00$</p>
                           <a href="#" style="color: black; font-size: small; margin: 0 0 0 110px;">VIEW MORE</a>
@@ -234,17 +234,17 @@
                       <br>
                       <div class="category1">
                           <div class="thing1">
-                              <img class="thing-img" src="../assets/images/women shoes.avif" alt="women shoes" style="width: 260px; height: 260px; margin: 10px 50px 0 100px; border-radius: 10px;">
+                              <img class="thing-img" src="../assets/images/women-shoes.avif" alt="women shoes" style="width: 260px; height: 260px; margin: 10px 50px 0 100px; border-radius: 10px;">
                               <p style="margin: 10px 0 5px 165px;">WOMEN SHOES</p>
                               <a href="#" style="color: black; font-size: small; margin: 0 0 0 186px;">VIEW MORE</a>
                           </div>
                           <div class="thing2">
-                              <img class="thing-img" src="../assets/images/women purse.jpeg" alt="purse" style="width: 260px; height: 260px; margin: 10px 50px 0 100px; border-radius: 10px;">
+                              <img class="thing-img" src="../assets/images/women-purse.jpeg" alt="purse" style="width: 260px; height: 260px; margin: 10px 50px 0 100px; border-radius: 10px;">
                               <p style="margin: 10px 0 5px 204px;">PURSE</p>
                               <a href="#" style="color: black; font-size: small; margin: 0 0 0 196px;">VIEW MORE</a>
                           </div>
                           <div class="thing3">
-                              <img class="thing-img" src="../assets/images/women watch.jpeg" alt="women watch" style="width: 260px; height: 260px; margin: 10px 50px 0 100px; border-radius: 10px;">
+                              <img class="thing-img" src="../assets/images/women-watch.jpeg" alt="women watch" style="width: 260px; height: 260px; margin: 10px 50px 0 100px; border-radius: 10px;">
                               <p style="margin: 10px 0 5px 200px;">WATCH</p>
                               <a href="#" style="color: black; font-size: small; margin: 0 0 0 194px;">VIEW MORE</a>
                           </div>
@@ -266,7 +266,7 @@
                       <a href="#" style="color: black; font-size: small; margin: 0 0 0 111px;">VIEW MORE</a>
                     </div>
                     <div class="trending3">
-                      <img src="../assets/images/women trending3.jpeg" alt="women dress" style="width: 250px; height: 250px; margin: 30px 10px 0 25px; border-radius: 10px;"><br><br>
+                      <img src="../assets/images/women-trending3.jpeg" alt="women dress" style="width: 250px; height: 250px; margin: 30px 10px 0 25px; border-radius: 10px;"><br><br>
                       <a href="#" style="color: black; font-size: small; margin: 0 0 0 111px;">VIEW MORE</a>
                     </div>
                     <div class="trending4">
