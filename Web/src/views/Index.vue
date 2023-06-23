@@ -316,7 +316,7 @@
                       <div class="category1">
                           <div class="thing1">
                               <img class="thing-img" src="../assets/images/kid-glasses.jpeg" alt="kid-glasses" style="width: 260px; height: 260px; margin: 10px 50px 0 100px; border-radius: 10px;">
-                              <p style="margin: 10px 0 5px 165px;">WOMEN SHOES</p>
+                              <p style="margin: 10px 0 5px 165px;">GLASSES</p>
                               <a href="#" style="color: black; font-size: small; margin: 0 0 0 186px;">VIEW MORE</a>
                           </div>
                           <div class="thing2">
