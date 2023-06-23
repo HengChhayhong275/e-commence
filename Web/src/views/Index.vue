@@ -62,11 +62,11 @@
               <!--slide-->
               <div class="slideshow-container" style="margin-top: 60px;">
   
-                  <div class="mySlides fade">
+                  <!-- <div class="mySlides fade">
                     <div class="numbertext">1 / 3</div>
                     <img class="slide-img" src="../assets/images/Shop-new-arrivals-2.png" style="width:100%">
                     <div class="text" style="color: black;">GRAB WHAT YOU LIKE NOW ON OUR NEW ARRIVAL.</div>
-                  </div>
+                  </div> -->
                   
                   <div class="mySlides fade">
                     <div class="numbertext">2 / 3</div>
@@ -74,7 +74,7 @@
                     <div class="text" style="color: black;">BUY NOW TO GET MORE DISCOUNT.</div>
                   </div>
                   
-                  <div class="mySlides fade">
+                  <!-- <div class="mySlides fade">
                     <div class="numbertext">3 / 3</div>
                     <img class="slide-img" src="../assets/images/free-delivery.png" style="width:100%">
                     <div class="text" style="color: black;">BUY MORE TO GET FREE DELIVERY FROM US.</div>
@@ -82,7 +82,7 @@
                   
                   <a class="prev" onclick="plusSlides(-1)">❮</a>
                   <a class="next" onclick="plusSlides(1)">❯</a>
-                  
+                -->
                   </div>
                   <br>
                   
@@ -379,10 +379,15 @@
                       <a href="#" style="color: black; font-size: small; margin: 0 0 0 111px;">VIEW MORE</a>
                     </div>
                   </div>
-                  <br><br>
-                  <div>
-                    
-                  </div>
+                  <br><br><br>
+                  <!-- <section class="about-us">
+                    <div class="follow-us">
+                      <h4>FOLLOW US ON</h4>
+                      <MDBBtn tag="a" color="primary" href="#!" style="background-color: rgb(59, 89, 152);">
+                        <MDBIcon iconStyle="fab" icon="facebook-f"></MDBIcon>
+                      </MDBBtn>
+                    </div>
+                  </section> -->
                   
   </body>
       
