@@ -363,6 +363,7 @@
                             <h3 class="upper-text">follow us on</h3>
                               <a href="#"><i class="fa fa-facebook"></i> FACEBOOK</a>
                               <a href="#"><i class="fa fa-instagram"></i> INSTAGRAM</a>
+                              
                           </div>
                           <div class="box">
                             <h3 class="upper-text">BANK WE ACCEPTED</h3>
