@@ -354,7 +354,7 @@
                       <img src="../assets/images/sunglasses.jpeg" alt="sunglasses" style="width: 250px; height: 250px; margin: 30px 10px 0 25px; border-radius: 10px;"><br><br>
                       <a href="#" style="color: black; font-size: small; margin: 0 0 0 111px;">VIEW MORE</a>
                     </div>
-
+                    
                   </div>
                   <br><br><br>
                   <!--About Us-->
@@ -373,7 +373,7 @@
                             <img src="../assets/images/aceleda.png" alt="ACELEDA BANK">
                             <img src="../assets/images/ftb.png" alt="FTB BANK">
                             <h3 class="upper-text">PAYMENT METHOD WE ACCEPTED</h3>
-
+                            <img class="leading-images" src="../assets/images/visa.png" alt="VISA">
                             <img src="../assets/images/mastercard.png" alt="MASTERCARD">
                             <img src="../assets/images/paypal.png" alt="PAYPAL">
                           </div>
@@ -692,7 +692,7 @@
   .about-container .leading-img{
     padding-left: 30%;
   }
-  .about-container .leading-img1{
+  .about-container .leading-images{
     padding-left: 35%;
   }
   .about-container .box{
