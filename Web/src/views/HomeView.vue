@@ -28,7 +28,6 @@
                     <a class="meu" href="#kid">KIDS</a> 
                     <a class="meu" href="#accessories">ACCESSORIES</a> 
                     <a class="meu" href="#AboutUs">ABOUT US</a> 
-                    <a class="meu" href="#">CONTACT US</a> 
                   </nav>
           </div>    
           <br>
