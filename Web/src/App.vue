@@ -1,28 +1,30 @@
 <template>
   <div>
-    <Checkout @cancel="isCheckingOut = false" v-if="isCheckingOut" />
-    <Index v-else @checkout="isCheckingOut = true" />
+      <RouterView/>
   </div>
+
 </template>
 
 <script>
 import { RouterLink, RouterView } from "vue-router";
-import Index from "./views/Index.vue";
-import Checkout from "./views/Checkout.vue";
+import HomeView from "./views/HomeView.vue";
+import Login from "./views/Login.vue";
+import AboutView from "./views/AboutView.vue"
 export default {
   data() {
     return {
-      isCheckingOut: false,
+      
     };
   },
   components: {
-    Index,
-    Checkout,
+    HomeView,
+    Login,
+    AboutView,
   },
 };
 </script>
 
-<style scoped>
+<!-- <style scoped>
 header {
   line-height: 1.5;
   max-height: 100vh;
@@ -84,4 +86,4 @@ nav a:first-of-type {
     margin-top: 1rem;
   }
 }
-</style>
+</style> -->
