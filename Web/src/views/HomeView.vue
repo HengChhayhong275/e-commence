@@ -450,7 +450,7 @@
     .meu{
       text-decoration: none;
       color: black;
-      margin-left: 15rem;
+      margin-left: 13rem;
     }
     .meu1{
       text-decoration: none;
