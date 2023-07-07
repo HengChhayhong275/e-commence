@@ -354,6 +354,7 @@
                       <img src="../assets/images/sunglasses.jpeg" alt="sunglasses" style="width: 250px; height: 250px; margin: 30px 10px 0 25px; border-radius: 10px;"><br><br>
                       <a href="#" style="color: black; font-size: small; margin: 0 0 0 111px;">VIEW MORE</a>
                     </div>
+                    
                   </div>
                   <br><br><br>
                   <!--About Us-->
@@ -363,7 +364,6 @@
                             <h3 class="upper-text">follow us on</h3>
                               <a href="#"><i class="fa fa-facebook"></i> FACEBOOK</a>
                               <a href="#"><i class="fa fa-instagram"></i> INSTAGRAM</a>
-                              
                           </div>
                           <div class="box">
                             <h3 class="upper-text">BANK WE ACCEPTED</h3>
